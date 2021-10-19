@@ -5,7 +5,7 @@ const ShowMedicalService = (props) => {
     const { id, name, cost, description, machineImg } = props.service
     const dynamicUrl = `/medicalService/${id}`
     return (
-        <div id='services' class="col">
+        <div id='services' class="col ">
             <div class="card h-100 shadow">
                 <img src={machineImg} class="card-img-top img-fluid rounded-3 px-5" style={{ height: '250px' }} alt="..." />
                 <div class="card-body">

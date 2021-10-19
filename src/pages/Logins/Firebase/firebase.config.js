@@ -1,5 +1,3 @@
-
-
 const firebaseConfig = {
     apiKey: "AIzaSyBdZSYWAGg3kSr8DQPkyWxvxpaWiv4u-N8",
     authDomain: "ibne-sina-health-care.firebaseapp.com",

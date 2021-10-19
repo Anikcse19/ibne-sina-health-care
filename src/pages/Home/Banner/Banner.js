@@ -11,18 +11,18 @@ const Banner = () => {
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="https://thumbs.dreamstime.com/b/female-doctor-talking-phone-diagnostic-center-female-doctor-talking-phone-diagnostic-center-194861260.jpg" className="d-block w-100" alt="..." />
+                    <img src="https://thumbs.dreamstime.com/b/female-doctor-talking-phone-diagnostic-center-female-doctor-talking-phone-diagnostic-center-194861260.jpg" className="img-fluid d-block w-100" alt="..." />
                     <div class="carousel-caption d-none d-md-block text-dark">
                     </div>
                 </div>
 
                 <div class="carousel-item">
-                    <img src="https://whitetouchdc.com/wp-content/uploads/2017/07/cropped-slider1.jpg" class="d-block w-100" alt="..." />
+                    <img src="https://whitetouchdc.com/wp-content/uploads/2017/07/cropped-slider1.jpg" class="d-block img-fluid w-100" alt="..." />
 
                 </div>
 
                 <div class="carousel-item">
-                    <img src="https://pathologylabchemicals.com/wp-content/uploads/2019/10/s10.jpg" class="d-block w-100" alt="..." />
+                    <img src="https://pathologylabchemicals.com/wp-content/uploads/2019/10/s10.jpg" class="d-block img-fluid w-100" alt="..." />
 
                 </div>
 

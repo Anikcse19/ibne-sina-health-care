@@ -18,7 +18,7 @@ const ShowService = () => {
         <div id='services' >
             <div>
                 <h2 className='text-center m-5'>Our Medical Service For You!!!</h2>
-                <div class="row row-cols-1 row-cols-md-2 g-4">
+                <div class="container-fluid row row-cols-1 row-cols-md-2 g-4">
                     {
                         services.map(service =>
                             <ShowMedicalService
