@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "name": "Ultrasonography",
+        "cost": 700,
+        "description": "Ultrasonography uses high-frequency sound (ultrasound) waves to produce images of internal organs and other tissues. A device called a transducer converts electrical current into sound waves, which are sent into the body’s tissues.",
+        "procedure": "If certain parts of the abdomen are being examined, people may be asked to refrain from eating and drinking for several hours before the test. For examination of female reproductive organs, women may be asked to drink a large amount of fluid to fill their bladder.Usually, the examiner places thick gel on the skin over the area to be examined to ensure good sound transmission. A handheld transducer is placed on the skin and moved over the area to be evaluated.To evaluate some body parts, the examiner inserts the transducer into the body—for example, into the vagina to better image the uterus and ovaries or into the anus to image the prostate gland.The examiner sometimes attaches the transducer to a viewing tube called an endoscope and passes it into the body. This procedure is called endoscopic ultrasonography. The endoscope can be passed down the throat to view the heart (transesophageal echocardiography) or through the stomach to view the liver and other nearby organs.After the test, most people can resume their usual activities immediately.",
+        "machineImg": "https://image.shutterstock.com/image-photo/modern-medical-equipment-ultrasound-machine-260nw-688803706.jpg",
+        "practicalImg": "https://www.scienceabc.com/wp-content/uploads/2016/08/Doctor-and-patient.-Ultrasound-equipment.-Diagnostics.-Sonography-machine-.Ramasets.jpg"
+    },
+    {
+        "id": 2,
+        "name": "X-Ray",
+        "cost": 300,
+        "description": "X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through. Dense materials, such as bone and metal, show up as white on X-rays. The air in your lungs shows up as black. Fat and muscle appear as shades of gray.",
+        "procedure": "X-rays can be performed at a doctor's office, dentist's office, hospital, or other medical facility.The procedure can take anywhere from a few minutes to more than an hour, depending on the type of image your doctor or dentist needs. A technician will position your body and the X-ray machine.You will need to remain still and may have to hold your breath during the X-ray. Movement can cause blurry images.The machine will capture images of your body as you sit, stand, or lie still. The process is painless.If you need a contrast medium for your X-ray, you'll swallow it or receive it by an intravenous injection or enema ahead of time.",
+        "machineImg": "https://gmebd.com/wp-content/uploads/2019/05/Digital-X-Ray-1.jpg",
+        "practicalImg": "https://college.mayo.edu/media/mccms/content-assets/academics/explore-health-care-careers/sonography-career-3734167-0022-hero-tablet.jpg"
+    },
+    {
+        "id": 3,
+        "name": "RadioTherapy",
+        "cost": 10000,
+        "description": "Radiation therapy (also called radiotherapy) is a cancer treatment that uses high doses of radiation to kill cancer cells and shrink tumors. At low doses, radiation is used in x-rays to see inside your body, as with x-rays of your teeth or broken bones",
+        "procedure": "The process of radiation therapy will be customized for patients, depending on which form of radiation therapy patients and their physicians choose as their options. Overall, there are five basic steps of radiation therapy that we can share to give patients an idea of what to expect. These steps include initial consul­tation, simulation, treatment planning, treatment delivery and post treatment follow-up.",
+        "machineImg": "https://rm-d8-live.s3.eu-west-1.amazonaws.com/d8live.royalmarsden.nhs.uk/s3fs-public/styles/hero_standard/public/2020-10/Brunel_0.jpg?itok=mAX-9I2Y",
+        "practicalImg": "https://www.macmillan.org.uk/dfsmedia/1a6f23537f7f4519bb0cf14c45b2a629/507-50033/macp040-ext-radio"
+    },
+    {
+        "id": 4,
+        "name": "ECG",
+        "cost": 900,
+        "description": "An electrocardiogram (ECG or EKG) records the electrical signal from your heart to check for different heart conditions. Electrodes are placed on your chest to record your heart's electrical signals, which cause your heart to beat. The signals are shown as waves on an attached computer monitor or printer.",
+        "procedure": "An EKG is quick, painless, and harmless. After you change into a gown, a technician attaches 12 to 15 soft electrodes with a gel to your chest, arms, and legs. The technician may have to shave small areas to ensure the electrodes stick properly to your skin. Each electrode is about the size of a quarter. These electrodes are attached to electrical leads (wires), which are then attached to the EKG machine.During the test, you’ll need to lie still on a table while the machine records your heart’s electrical activity and places the information on a graph. Make sure to lie as still as possible and breathe normally. You shouldn’t talk during the test.After the procedure, the electrodes are removed and discarded. The entire procedure takes about 10 minutes.",
+        "machineImg": "https://cdn10.bigcommerce.com/s-p10g1rn/product_images/uploaded_images/shutterstock-414452563-ecg2.jpg",
+        "practicalImg": "https://www.choc.org/wp/wp-content/uploads/2015/04/Electrocardiogram.jpg"
+    },
+    {
+        "id": 5,
+        "name": "ChemoTherapy",
+        "cost": 8000,
+        "description": "Chemotherapy is the use of drugs to destroy cancer cells. It usually works by keeping the cancer cells from growing, dividing, and making more cells. Because cancer cells usually grow and divide faster than normal cells, chemotherapy has more of an effect on cancer cells.",
+        "procedure": "As chemotherapy is a serious treatment for a serious condition, it’s important to plan ahead before beginning therapy. Your doctor and hospital staff will help you anticipate the potential problems associated with treatment. Before you begin therapy, you’ll undergo a series of tests to help determine if you’re healthy enough for chemotherapy. This will include examinations of your heart and blood tests to determine the health of your liver. These tests can also help guide your doctor in deciding which types of chemotherapy to use in your treatment.Your doctor may also recommend that you visit your dentist before beginning treatment. Since chemotherapy affects your body’s ability to heal, any infection in your gums or teeth could potentially spread throughout your body.",
+        "machineImg": "https://thumbs.dreamstime.com/b/chemotherapy-machine-robot-arm-lab-36811752.jpg",
+        "practicalImg": "https://i.ytimg.com/vi/kkvKANI5xyE/maxresdefault.jpg"
+    },
+    {
+        "id": 6,
+        "name": "CT Scan",
+        "cost": 15000,
+        "description": "A CT scan or computed tomography scan is a medical imaging technique used in radiology to get detailed images of the body noninvasively for diagnostic purposes. The personnel that perform CT scans are called radiographers or radiology technologists.",
+        "procedure": "The scanner table is very narrow. Ask if there is a weight limit for the CT scanner table if you weigh more than 300 pounds.Be sure to tell your doctor if you’re pregnant. X-rays of any kind aren’t recommended for pregnant women.You’ll want to be aware of some extra precautions if contrast dye will be used. For example, special measures must be taken for people on the diabetes medicine metformin (Glucophage). Be sure to let your doctor know if you take this drug. Also tell your doctor if you’ve ever suffered an adverse reaction to contrast dye.",
+        "machineImg": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2020/12/2020_12$largeimg_47867984.jpg",
+        "practicalImg": "https://cdn-prod.medicalnewstoday.com/content/images/articles/153/153201/ct-scan.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Colonoscopy",
+        "cost": 2000,
+        "description": "A colonoscopy (koe-lun-OS-kuh-pee) is an exam used to detect changes or abnormalities in the large intestine (colon) and rectum. During a colonoscopy, a long, flexible tube (colonoscope) is inserted into the rectum. A tiny video camera at the tip of the tube allows the doctor to view the inside of the entire colon.",
+        "procedure": "To ensure a quality procedure, it is crucial that the bowel is thoroughly cleaned out with a laxative preparation the day before the test. You should have nothing to eat or drink 6 hours before your scheduled procedure. After you are admitted to the outpatient facility, a nurse will start an IV. Before the process, an anesthesia specialist will administer IV medication to be sure you are asleep and comfortable during the test. The gastroenterologist will then insert the flexible video colonoscope into the rectum and carefully advance the instrument to the end of the colon. If inflammation or tissue that appears abnormal is identified, biopsies may be obtained. If polyps are noted, these are removed.",
+        "machineImg": "https://5.imimg.com/data5/VH/HU/KL/SELLER-89377127/colonoscopy-machines-500x500.jpg",
+        "practicalImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/US_Navy_110405-N-KA543-028_Hospitalman_Urian_D._Thompson%2C_left%2C_Lt._Cmdr._Eric_A._Lavery_and_Registered_Nurse_Steven_Cherry_review_the_monitor_whil.jpg/1200px-US_Navy_110405-N-KA543-028_Hospitalman_Urian_D._Thompson%2C_left%2C_Lt._Cmdr._Eric_A._Lavery_and_Registered_Nurse_Steven_Cherry_review_the_monitor_whil.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Electroencephalogram",
+        "cost": 7000,
+        "description": "An electroencephalogram (EEG) is a test that detects electrical activity in your brain using small, metal discs (electrodes) attached to your scalp. Your brain cells communicate via electrical impulses and are active all the time, even when you're asleep. This activity shows up as wavy lines on an EEG recording",
+        "procedure": "Before the test, you should take the following steps: Wash your hair the night before the EEG, and don’t put any products (like sprays or gels) in your hair on the day of the test. Ask your doctor if you should stop taking any medications before the test. You should also make a list of your medications and give it to the technician performing the EEG.Avoid eating or drinking anything containing caffeine for at least eight hours before the test.Your doctor may ask you to sleep as little as possible the night before the test if you have to sleep during the EEG. You may also be given a sedative to help you relax and sleep before the test begins.After the EEG is over, you can continue with your regular routine. However, if you were given a sedative, the medication will remain in your system for a little while. This means that you’ll have to bring someone with you so they can take you home after the test. You’ll need to rest and avoid driving until the medication wears off.",
+        "machineImg": "https://4.imimg.com/data4/GP/BB/GLADMIN-2/eeg-machine-500x500.jpg",
+        "practicalImg": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/325/325191/an-electroencephalogram-or-eeg-being-performed-image-credit-baburov-2009.jpg?w=1155&h=1541"
+    },
+    {
+        "id": 9,
+        "name": "Biopsy",
+        "cost": 700,
+        "description": "A biopsy is a medical test commonly performed by a surgeon, interventional radiologist, or an interventional cardiologist. The process involves extraction of sample cells or tissues for examination to determine the presence or extent of a disease.",
+        "procedure": "Depending on the type of biopsy, your biopsy may be performed in your provider’s office or an operating room. If your biopsy is painless and simple (like a cell scraping), you won’t need a numbing agent. If your biopsy is more involved, your provider or surgeon will give you pain relief medications, including a local anesthetic where the biopsy is removed from, a regional anesthetic to numb a larger local area or general anesthesia (to put you to sleep).After the anesthetic has taken effect, your biopsy will be performed. Your cell or tissue sample will then be sent to a laboratory to be viewed under a microscope.",
+        "machineImg": "https://hsl.ie/wp-content/uploads/2018/05/Eviva%C2%AE-Breast-Biopsy-System-2.jpg",
+        "practicalImg": "http://www.cdimiami.com/wp-content/uploads/2016/01/stereotactic-breast-biopsy.jpg"
+    }
+]
