@@ -1,6 +1,6 @@
 # Welcome to "IBNE SINA HEALTH CARE"
 
-## Medical Planet [Live Site Link](https://ibne-sina-health-care.netlify.app/medicalServices)
+## Diagnostic Center [Live Site Link](https://ibne-sina-health-care.netlify.app/medicalServices)
 
 ## [Repository Link](https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-Anikcse19)
 
