@@ -47,10 +47,6 @@ function App() {
               <Login></Login>
             </Route>
 
-            <Route exact path='/register'>
-              <Register></Register>
-            </Route>
-
             <PrivateRoute exact path='/treatment/:details'>
               <Service></Service>
             </PrivateRoute>

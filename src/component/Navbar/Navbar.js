@@ -10,7 +10,7 @@ const Navbar = () => {
         borderRadius: '5px',
     }
 
-    const { user, logOut } = useAuth();
+    const { user, logOut, setUserName } = useAuth();
     console.log(user);
 
     return (
@@ -46,7 +46,8 @@ const Navbar = () => {
 
                     {
                         user.email &&
-                        <span style={{ color: 'white', padding: "5px", backgroundColor: 'black', marginRight: '10px' }}>Hello {user.displayName} </span>
+                        <span style={{ color: 'white', padding: "5px", backgroundColor: 'black', marginRight: '10px' }}>Hello {user.displayName ? user.displayName : 'Anik'} </span>
+
                     }
 
                     {
@@ -56,9 +57,7 @@ const Navbar = () => {
                                 <Link to='/login'>
                                     <button className='btn btn-primary me-3'><i class="fas fa-sign-in-alt"></i> Login</button>
                                 </Link>
-                                <Link to='/register'>
-                                    <button className='btn btn-primary'><i class="fas fa-user-plus"></i> Registration</button>
-                                </Link>
+
                             </div>
 
                     }
