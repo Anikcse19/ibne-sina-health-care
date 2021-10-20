@@ -28,6 +28,9 @@ const Navbar = () => {
                             <NavLink className='text-black fw-bold text-decoration-none nav-link' activeStyle={activeTab} to='/home' >HOME</NavLink>
                         </li>
                         <li class="nav-item">
+                            <NavLink className='text-black fs-6 fw-bold text-decoration-none nav-link' activeStyle={activeTab} to='/DiagnosticFeatures'>Diagnostic Features</NavLink>
+                        </li>
+                        <li class="nav-item">
                             <NavLink className='text-black fw-bold text-decoration-none nav-link' activeStyle={activeTab} to='/treatment'>TREATMENT</NavLink>
                         </li>
 

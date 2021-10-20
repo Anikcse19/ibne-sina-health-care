@@ -17,23 +17,25 @@ const MediServiceDetails = () => {
     console.log(disease);
 
     return (
-        <div className="container card">
-            <div className='align-self-center shadow-lg my-4' style={{ width: "500px" }}>
-                <img className='card-img-top img-fluid' style={{ height: "400px", width: '500px' }} src={disease[0]?.practicalImg} alt="" />
-                <div class="card-body">
-                    <h5 class="card-title fw-bold text-center">{disease[0]?.serviceTitle}</h5>
-                    <p class="card-text">{disease[0]?.description}</p>
-                    <p class="card-text"><small class="text-muted fw-bold">Total Cost: ${disease[0]?.cost}</small></p>
-                </div>
+        <div className='text-center  py-4'>
+            <div className='shadow-lg h-50 w-50 mx-auto'>
+                <div>
+                    <img className='h-50' width='500px' src={disease[0]?.practicalImg} alt="" />
 
+                </div>
+                <h3>{disease[0]?.name}</h3>
+                <p>{disease[0]?.description}</p>
+                <p>cost:{disease[0]?.cost}</p>
                 <div className="text-center mb-3">
                     <Link to='/medicalServices'>
-                        <button className='btn btn-danger'>Go to all Medical Service</button>
+                        <button className='btn mb-2 btn-danger'>Go to all Medical Service</button>
                     </Link>
                 </div>
             </div>
+
         </div>
     );
 };
 
 export default MediServiceDetails;
+

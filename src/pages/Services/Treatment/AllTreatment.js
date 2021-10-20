@@ -23,6 +23,3 @@ const AllTreatment = (props) => {
 };
 
 export default AllTreatment;
-{/* <div className="text-center mb-3">
-    <Link to={dynamicUrl}><button className='btn btn-success text-warning fw-bold'><i class="fas fa-info-circle"></i>More Details...</button></Link>
-</div> */}
